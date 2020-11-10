@@ -1,0 +1,5 @@
+nbproject/privet/
+build/
+*.class
+*.log
+/dist/
